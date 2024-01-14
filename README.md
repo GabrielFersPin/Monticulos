@@ -19,3 +19,5 @@ Una función __generar_pacientes__ para generar pacientes aleatorios.
 Se ejecuta la simulación con 20 pacientes aleatorios.
 
 Y por fin se mostra los pacientes atendidos.
+
+Un código como este, estructurado con montículos, es extramademente útil para aplicar una prioridad, en este ejemplo cada paciente puede ser atendido de manera más eficiente de acuerdo con su nivel de emergencia y horas de espera, lo que en un hospital seria lo más conveniente un sistema con este.
