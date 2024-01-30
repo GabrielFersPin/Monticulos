@@ -1,6 +1,5 @@
 # Montículos
 "[GitHub Monticulos Repository](https://github.com/Gigabill/Mont-culos.git)"
-Ejercicio Feedback 1 - Gabriel Felipe Fernandes Pinheiro:
 
 El código fue estructurado de esta manera:
 
